@@ -1,6 +1,4 @@
-Here’s a professional README file for your **Fitness Tracker** project:
 
----
 
 # **Fitness Tracker**  
 *A full-stack fitness tracking application using React.js and ASP.NET Core.*
